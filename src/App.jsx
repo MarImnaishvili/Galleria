@@ -14,7 +14,11 @@ function App() {
     <>
       <AppBar />
       <Container sx={{ marginY: 5 }}>
-        <Grid container spacing={5}>
+        <Grid
+          container
+          spacing={{ xs: 2, md: 3 }}
+          columns={{ xs: 4, sm: 8, md: 12 }}
+        >
           {pictures.map((picture) => (
             <SimpleCard picture={picture} key={picture.id} />
           ))}
