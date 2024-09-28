@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Abstract",
+    "price": 700,
+    "image": "/abstract.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Face",
+    "price": 500,
+    "image": "/face.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Forest",
+    "price": 800,
+    "image": "/forest.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Sunset",
+    "price": 600,
+    "image": "/sunset.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Abstract",
+    "price": 700,
+    "image": "/abstract.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Face",
+    "price": 500,
+    "image": "/face.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Forest",
+    "price": 800,
+    "image": "/forest.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Sunset",
+    "price": 600,
+    "image": "/sunset.jpeg"
+  }
+]
